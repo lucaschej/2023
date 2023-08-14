@@ -1,3 +1,3 @@
 # 2023
 
-password: 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
+password: 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 
