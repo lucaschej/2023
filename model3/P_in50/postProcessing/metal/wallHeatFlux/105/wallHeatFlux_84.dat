@@ -1,7 +1,0 @@
-# Wall heat-flux
-# Time        	patch         	min           	max           	integral      
-8.400000e+01	metalInlet	-4.327806e+00	-1.143407e-01	-7.709694e-05
-8.400000e+01	metalOutlet	-3.083335e+00	-1.329213e+00	-4.170630e-05
-8.400000e+01	metalExternal	-3.195774e+01	-1.328191e+00	-3.642674e-03
-8.400000e+01	metal_to_fluid	-1.097623e+04	9.773870e+01	-1.229189e-02
-8.400000e+01	metal_to_heater	2.634165e+03	1.140617e+04	2.031572e-02
